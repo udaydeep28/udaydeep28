@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 ## 🌐 Socials:
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/udaydeep-singh-dhir-196682201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/udaydeep-singh-dhir-196682201/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/udaydeep-singh-dhir-196682201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/udaydeep-singh-dhir-196682201/" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100017591267951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100017591267951" height="30" width="40" /></a>
 <a href="https://instagram.com/udaydeep_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="udaydeep_28" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/udaydeep_singh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/udaydeep_singh/" height="30" width="40" /></a>
